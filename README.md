@@ -79,6 +79,7 @@ Emoting은 사용자의 비언어적 표현(포즈 및 표정)을 실시간으�
 > 📌 시연 영상 및 실제 영상 데모는 영상 파일 또는 링크로 별도 제공
 
 - 시스템 구동 시뮬레이션 캡처 및 실시간 분석 화면
+- https://drive.google.com/file/d/1myhZz2go-v_shcjXiCg-9TNe5S2_IYIx/view?usp=sharing
 
 ---
 
@@ -91,6 +92,11 @@ Emoting은 사용자의 비언어적 표현(포즈 및 표정)을 실시간으�
 | 이정인 | 데이터 분석 |
 | 신지민 | 데이터 분석 |
 | 하승주 | 데이터 분석 |
+
+---
+
+## 📚 발표자료
+- https://drive.google.com/file/d/16Fm-cmtNECwjJWlFwpKmbAHDLOVA2TNG/view?usp=sharing
 
 ---
 
